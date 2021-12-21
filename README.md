@@ -2,7 +2,7 @@
 
 ## Informações
 
-- Repositório base: `https://github.com/brazdore/ilegra-cn-temafinal01.git`
+- Repositório base: `https://github.com/brazdore/ilegra-devops-tema12.git`
 
 ## Requisitos
 
